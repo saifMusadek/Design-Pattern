@@ -1,0 +1,28 @@
+D:\temp\C#[console]\Design Patterns\Design Patterns\obj\Debug\net6.0\Design Patterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\C#[console]\Design Patterns\Design Patterns\obj\Debug\net6.0\Design Patterns.AssemblyInfoInputs.cache
+D:\temp\C#[console]\Design Patterns\Design Patterns\obj\Debug\net6.0\Design Patterns.AssemblyInfo.cs
+D:\temp\C#[console]\Design Patterns\Design Patterns\obj\Debug\net6.0\Design Patterns.csproj.CoreCompileInputs.cache
+D:\temp\C#[console]\Design Patterns\Design Patterns\bin\Debug\net6.0\Design Patterns.exe
+D:\temp\C#[console]\Design Patterns\Design Patterns\bin\Debug\net6.0\Design Patterns.deps.json
+D:\temp\C#[console]\Design Patterns\Design Patterns\bin\Debug\net6.0\Design Patterns.runtimeconfig.json
+D:\temp\C#[console]\Design Patterns\Design Patterns\bin\Debug\net6.0\Design Patterns.dll
+D:\temp\C#[console]\Design Patterns\Design Patterns\bin\Debug\net6.0\Design Patterns.pdb
+D:\temp\C#[console]\Design Patterns\Design Patterns\obj\Debug\net6.0\Design Patterns.dll
+D:\temp\C#[console]\Design Patterns\Design Patterns\obj\Debug\net6.0\refint\Design Patterns.dll
+D:\temp\C#[console]\Design Patterns\Design Patterns\obj\Debug\net6.0\Design Patterns.pdb
+D:\temp\C#[console]\Design Patterns\Design Patterns\obj\Debug\net6.0\Design Patterns.genruntimeconfig.cache
+D:\temp\C#[console]\Design Patterns\Design Patterns\obj\Debug\net6.0\ref\Design Patterns.dll
+D:\Projects\Sprint 1\Project\SHOWCASE THESE ONLY\Design Patterns\Design Patterns\bin\Debug\net6.0\Design Patterns.exe
+D:\Projects\Sprint 1\Project\SHOWCASE THESE ONLY\Design Patterns\Design Patterns\bin\Debug\net6.0\Design Patterns.deps.json
+D:\Projects\Sprint 1\Project\SHOWCASE THESE ONLY\Design Patterns\Design Patterns\bin\Debug\net6.0\Design Patterns.runtimeconfig.json
+D:\Projects\Sprint 1\Project\SHOWCASE THESE ONLY\Design Patterns\Design Patterns\bin\Debug\net6.0\Design Patterns.dll
+D:\Projects\Sprint 1\Project\SHOWCASE THESE ONLY\Design Patterns\Design Patterns\bin\Debug\net6.0\Design Patterns.pdb
+D:\Projects\Sprint 1\Project\SHOWCASE THESE ONLY\Design Patterns\Design Patterns\obj\Debug\net6.0\Design Patterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Sprint 1\Project\SHOWCASE THESE ONLY\Design Patterns\Design Patterns\obj\Debug\net6.0\Design Patterns.AssemblyInfoInputs.cache
+D:\Projects\Sprint 1\Project\SHOWCASE THESE ONLY\Design Patterns\Design Patterns\obj\Debug\net6.0\Design Patterns.AssemblyInfo.cs
+D:\Projects\Sprint 1\Project\SHOWCASE THESE ONLY\Design Patterns\Design Patterns\obj\Debug\net6.0\Design Patterns.csproj.CoreCompileInputs.cache
+D:\Projects\Sprint 1\Project\SHOWCASE THESE ONLY\Design Patterns\Design Patterns\obj\Debug\net6.0\Design Patterns.dll
+D:\Projects\Sprint 1\Project\SHOWCASE THESE ONLY\Design Patterns\Design Patterns\obj\Debug\net6.0\refint\Design Patterns.dll
+D:\Projects\Sprint 1\Project\SHOWCASE THESE ONLY\Design Patterns\Design Patterns\obj\Debug\net6.0\Design Patterns.pdb
+D:\Projects\Sprint 1\Project\SHOWCASE THESE ONLY\Design Patterns\Design Patterns\obj\Debug\net6.0\Design Patterns.genruntimeconfig.cache
+D:\Projects\Sprint 1\Project\SHOWCASE THESE ONLY\Design Patterns\Design Patterns\obj\Debug\net6.0\ref\Design Patterns.dll
